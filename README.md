@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather_application
 
 A minimal flutter application to show weather
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Weather_Application
+A basic, minimalistic application developed in Flutter to show weather at your location
+>>>>>>> origin/master
